@@ -1,6 +1,6 @@
 {
   "name": "functional-protipster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Acceptance Test-Driven ProTipster",
   "main": "index.js",
   "scripts": {
